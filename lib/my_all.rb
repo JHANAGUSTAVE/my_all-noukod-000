@@ -13,5 +13,4 @@ def my_all?(collection)
   else
     true
   end
-  return true if (my_all?(collection) {|i| i < 4}) true
 end
